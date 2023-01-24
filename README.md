@@ -10,15 +10,15 @@ It will learn data science through hands-on practice in the IBM Cloud using real
 Consists of a Professional Certificate from Coursera, and a digital badges from IBM.
 
 # Courses
-    - Data Science Orientation
-    - Tools for Data Science
-    - Data Science Methodology
-    - Python for Data Science and AI
-    - Databases and SQL for Data Science
-    - Data Visualization with Python
-    - Data Analysis with Python
-    - Machine Learning with Python
-    - Applied Data Science Capstone
+ - Data Science Orientation
+ - Tools for Data Science
+ - Data Science Methodology
+ - Python for Data Science and AI
+ - Databases and SQL for Data Science
+ - Data Visualization with Python
+ - Data Analysis with Python
+ - Machine Learning with Python
+ - Applied Data Science Capstone
  
 # Applied Learning Project
 This Professional Certificate has a strong emphasis on applied learning. The courses include a series of hands-on labs in the IBM Cloud that give you practical skills with applicability to real jobs, including:
