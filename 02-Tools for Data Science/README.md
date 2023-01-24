@@ -15,7 +15,6 @@ This course gives plenty of hands-on experience in order to develop skills for w
  - Create and manage source code for data science using Git repositories and GitHub. 
 
 ## SKILLS YOU WILL GAIN
- - SKILLS YOU WILL GAIN
  - Data Science
  - Github
  - Python Programming
