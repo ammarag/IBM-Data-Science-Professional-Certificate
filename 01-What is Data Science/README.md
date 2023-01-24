@@ -16,4 +16,3 @@ Discover concepts like Machine Learning, Deep Learning, and Neural Networks  and
  - Big Data
  - Data Mining
  - AI
-
