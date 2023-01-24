@@ -16,3 +16,8 @@ Discover concepts like Machine Learning, Deep Learning, and Neural Networks  and
  - Big Data
  - Data Mining
  - AI
+
+<p align="middle">
+  <a href="https://coursera.org/share/6b3ac5123f86645269f92e25b8a1c6ff"><img src="https://user-images.githubusercontent.com/84391594/152700811-aaa5b9fc-9b4a-4eda-989d-8402c3dcf741.png" height="430"></a>
+  <a href="https://www.credly.com/earner/earned/badge/e05fe26f-8fb9-4d9a-8d21-dea4d731b55e"><img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" height="430"></a>
+</p>
