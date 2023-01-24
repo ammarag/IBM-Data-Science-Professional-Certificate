@@ -1,4 +1,4 @@
-# IBM-Data-Science-Professional-Certificate
+# IBM Data Science Professional Certificate
 <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certification</a>
  
 # About this Professional Certificate
@@ -32,13 +32,13 @@ Projects.
  - Apply and compare machine learning classification algorithms to predict whether a loan case will be paid off or not.
  - Train and compare machine learning models to predict if a space launch can reuse the first stage of a rocket.
 
-# Learn topics
+# Learning Topics
  - Describe what is data science, the various activities of a data scientist’s job, and methodology to think and work like a data scientist.
  - Develop hands-on skills using the tools, languages, and libraries used by professional data scientists.
  - Import and clean data sets, analyze and visualize data, and build and evaluate machine learning models and pipelines using Python.
  - Apply various data science skills, techniques, and tools to complete a project using a real-world data set and publish a report for stakeholders>
 
-# Skills to learn
+# Learned Skills
  - Data Science
  - Deep Learning
  - Machine Learning
