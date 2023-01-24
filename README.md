@@ -19,7 +19,7 @@ Consists of a Professional Certificate from Coursera, and a digital badges from 
  -7- Data Analysis with Python
  -8- Machine Learning with Python
  -9- Applied Data Science Capstone
-
+ 
 # Applied Learning Project
 This Professional Certificate has a strong emphasis on applied learning. The courses include a series of hands-on labs in the IBM Cloud that give you practical skills with applicability to real jobs, including:
  - Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio.
